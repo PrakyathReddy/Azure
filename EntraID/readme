@@ -1,0 +1,7 @@
+tasks done to understand EntraID:
+1. Check what edition my EntraID is on
+A. portal -> Entra ID -> manage -> licenses
+"The current license plan for this Microsoft Entra tenant is Microsoft Entra ID Free. "
+
+2. check what devices are configured with my EntraID
+A. portal -> Entra ID -> manage -> Devices
