@@ -5,3 +5,9 @@ A. portal -> Entra ID -> manage -> licenses
 
 2. check what devices are configured with my EntraID
 A. portal -> Entra ID -> manage -> Devices
+
+3. create user accounts - one new user and one external user
+
+4. create new group
+
+5. create a subscription, resource group 
