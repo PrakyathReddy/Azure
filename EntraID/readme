@@ -11,3 +11,17 @@ A. portal -> Entra ID -> manage -> Devices
 4. create new group
 
 5. create a subscription, resource group 
+
+6. create a mgmt group -> move an existing subscription into the new one
+
+7. azure resources tags
+
+8. create subscriptions
+
+9. cost management under each subscription; and set budgets
+
+10. azure policy - definition, scope, assignment, compliance, initiative
+
+11. RBAC
+
+
